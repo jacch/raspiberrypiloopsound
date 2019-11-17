@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SRON
+Comment=Sound Route ON
+Exec=/home/pi/raspiberrypiloopsound/son_soff/son.sh
+Icon=/home/pi/raspiberrypiloopsound/son_soff/SoundOn.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Settings;
+Keywords=Sound ON;

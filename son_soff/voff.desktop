@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=SROFF
+Comment=Sound Route OFF
+Exec=/home/pi/raspiberrypiloopsound/son_soff/soff.sh
+Icon=/home/pi/raspiberrypiloopsound/son_soff/SoundOFF.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Settings;
+Keywords=Sound ON;
+
